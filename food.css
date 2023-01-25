@@ -1,0 +1,44 @@
+.food{
+    width: 19%;
+    height: 765px;
+    border: 2px rgb(218, 218, 218) solid;
+    float: left;
+    padding: 20px;
+    border-radius: 86px;
+    margin-left: 127px;
+    margin-top: 77px;
+    background-color: rgb(222, 214, 214);
+}
+img{
+    width: 55%;
+    height: 427px;
+    border-radius: 18px;
+    margin-left: 18%;
+    border-radius: 15px;
+}
+button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 18px 47px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    margin-left: 199px;
+    margin-top: 50px;
+  
+}
+h1{
+    text-align: center;
+    font-weight: 100;
+    color: rgb(0, 0, 0);
+}
+body{
+    background-image: url("./images/pizza.jpg");
+    background-size: cover;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+}
